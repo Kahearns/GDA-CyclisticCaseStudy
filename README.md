@@ -7,12 +7,13 @@ In this case study, I will perform many real-world tasks of a junior data analys
 
 ### Links
 **Data Source:** https://divvy-tripdata.s3.amazonaws.com/index.html
+
 **Data Integrity:** The data is publicly available and provided by Motivate International Inc. under a license agreement, ensuring that it is appropriate and reliable for this analysis, although personally identifiable information is not included to protect rider privacy. At the time of work, I am starting from August 2024. [License Agreement](https://divvybikes.com/data-license-agreement)
 
 
 ### Technical Tools
-Tableua
-Sql
+- Tableua
+- Sql
 
 ### Stakeholders
 **Lily Moreno (Director of Marketing)**
