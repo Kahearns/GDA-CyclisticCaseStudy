@@ -12,8 +12,9 @@ In this case study, I will perform many real-world tasks of a junior data analys
 
 
 ### Technical Tools
-- Tableua
-- Sql
+Python
+Tableau
+Excel
 
 ### Stakeholders
 **Lily Moreno (Director of Marketing)**
