@@ -38,5 +38,11 @@ There are 12 files with naming convention of YYYYMM-divvy-tripdata and each file
 ## Process
 **Steps Taken**
 1. Extracting Data: Each zip file containing the bike-share data from September 2023 to August 2024 was intended to be extracted.
-2. Loading Data into SQL Tables: Each month’s CSV file would be loaded into a separate SQL table named based on the year and month (e.g., 202309 for September 2023).
-3. Combining Data: A new table named combined_cyclistic_data would be created by combining all individual monthly tables using the UNION ALL SQL command.
+2. Loading Data into DataFrame Tables: With the use of Python, I combined all of the individual csv files into one, and cleaned and summarized the data.
+3. Analyzing the Data: Performing the actual analysis and writing to an excel file to summarize the data.
+4. Visualizations creation
+
+## Analyze & Share
+
+
+## Act
