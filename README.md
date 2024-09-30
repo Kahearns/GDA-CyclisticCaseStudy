@@ -38,11 +38,24 @@ There are 12 files with naming convention of YYYYMM-divvy-tripdata and each file
 ## Process
 **Steps Taken**
 1. Extracting Data: Each zip file containing the bike-share data from September 2023 to August 2024 was intended to be extracted.
-2. Loading Data into DataFrame Tables: With the use of Python, I combined all of the individual csv files into one, and cleaned and summarized the data.
-3. Analyzing the Data: Performing the actual analysis and writing to an excel file to summarize the data.
+2. Loading Data into DataFrame Tables: With the use of Python, I combined all of the individual csv files into one, and cleaned (removed duplicates, fixed datetime formats, and removed null values where possible) and summarized the data. Within my scripts, I have commented out lines to give a full description of each step, which will print out into the terminal.
+3. Analyzing the Data: Performing the actual analysis and writing to an excel file to summarize the data. (I focused on 9 umbrellas; Bike types used by riders, number of trips per month, number of trips per day of the week, number of trips per hour, avg ride length per month, avg ride length per day of week, avg ride length per hour, and finally the starting and end locations.)
 4. Visualizations creation
 
 ## Analyze & Share
+### Visuals
 
+### Insights
+**Usage Frequency**: Annual members use the bikes significantly more than casual riders, with over 2.6 million trips compared to about 1.5 million for casual users. This suggests that annual members are more engaged with the service.
+**Ride Duration:** Casual riders tend to have longer average ride durations compared to annual members, which may indicate that casual riders are using the bikes for longer leisure rides, while members might be using them for shorter, more practical trips.
+
+### Story Summary
+**Engagement Level:** Annual members demonstrate higher engagement with the Cyclistic bike-share program, as evidenced by their significantly higher number of trips (2,675,639) compared to casual riders (1,466,246).
+**Usage Context:** Casual riders tend to take longer rides on average (22.36 minutes) compared to annual members (12.38 minutes). This suggests that casual riders may be using the bikes for leisure purposes, while annual members might use them more for commuting or shorter trips.
+**Potential Marketing Opportunities:** The longer average ride lengths of casual riders present an opportunity for targeted marketing strategies that highlight the benefits of converting to annual memberships, emphasizing convenience, cost-effectiveness, and ease of use.
 
 ## Act
+**Targeted Marketing Campaigns:** Design marketing initiatives aimed at casual riders, focusing on the value of an annual membership. Highlight features such as unlimited rides, cost savings compared to single rides, and the convenience of having a bike readily available. Use testimonials and data-driven insights to showcase the benefits of becoming a member.
+**Engagement Strategies:** Develop engagement strategies that encourage casual riders to try the bike-share program more frequently. This could include promotional offers for first-time annual memberships or discounted rates for casual riders who commit to longer-term usage.
+**Leverage Ride Duration Insights:** Since casual riders take longer rides, consider creating targeted content around leisure biking experiences. This could include curated bike routes, local attractions, or events that encourage casual riders to explore the city using Cyclistic bikes, ultimately making them more inclined to convert to annual memberships.
+
