@@ -43,7 +43,7 @@ There are 12 files with naming convention of YYYYMM-divvy-tripdata and each file
 
 ## Analyze & Share
 ### Visuals
-https://github.com/Kahearns/GDA-CyclisticCaseStudy/blob/3872ee7e2b376fcd8943163e09e29bf43fcc9528/PieChartSC.png
+!(https://github.com/Kahearns/GDA-CyclisticCaseStudy/blob/3872ee7e2b376fcd8943163e09e29bf43fcc9528/PieChartSC.png)
 
 ### Insights
 **Usage Frequency**: Annual members use the bikes significantly more than casual riders, with over 2.6 million trips compared to about 1.5 million for casual users. This suggests that annual members are more engaged with the service.
