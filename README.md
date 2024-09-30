@@ -1,7 +1,7 @@
 # Google Data Analytics Capstone: Cyclistic Case Study
 
 ## Introduction
-Course: https://www.coursera.org/learn/google-data-analytics-capstone
+**Course:** https://www.coursera.org/learn/google-data-analytics-capstone
 
 In this case study, I will perform many real-world tasks of a junior data analyst at a fictional company, Cyclistic. In order to answer the key business task of understanding how casual riders and annual members use Cyclistic bikes differently with the goal of designing a new marketing strategy to convert the casual riders to annual members. I will follow the steps of the data analysis process: Ask, Prepare, Process, Analyze, Share, and Act.
 
@@ -12,9 +12,8 @@ In this case study, I will perform many real-world tasks of a junior data analys
 
 
 ### Technical Tools
-Python
-Tableau
-Excel
+- Python
+- Excel
 
 ### Stakeholders
 **Lily Moreno (Director of Marketing)**
@@ -44,6 +43,7 @@ There are 12 files with naming convention of YYYYMM-divvy-tripdata and each file
 
 ## Analyze & Share
 ### Visuals
+https://github.com/Kahearns/GDA-CyclisticCaseStudy/blob/3872ee7e2b376fcd8943163e09e29bf43fcc9528/PieChartSC.png
 
 ### Insights
 **Usage Frequency**: Annual members use the bikes significantly more than casual riders, with over 2.6 million trips compared to about 1.5 million for casual users. This suggests that annual members are more engaged with the service.
