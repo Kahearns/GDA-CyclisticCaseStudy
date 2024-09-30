@@ -37,7 +37,7 @@ There are 12 files with naming convention of YYYYMM-divvy-tripdata and each file
 ## Process
 **Steps Taken**
 1. Extracting Data: Each zip file containing the bike-share data from September 2023 to August 2024 was intended to be extracted.
-2. Loading Data into DataFrame Tables: With the use of Python, I combined all of the individual csv files into one, and cleaned (removed duplicates, fixed datetime formats, and removed null values where possible) and summarized the data. Within my scripts, I have commented out lines to give a full description of each step, which will print out into the terminal.
+2. Loading Data into DataFrame Tables: With the use of Python, I combined all of the individual csv files into one, and cleaned (removed duplicates, fixed datetime formats, and removed null values where possible) and summarized the data. Within my scripts, I have commented out lines to give a full description of each step, which will print out into the terminal. (Note: To use my scripts, please create two sub folder "Results", "SourceData" for both the output and input files.)
 3. Analyzing the Data: Performing the actual analysis and writing to an excel file to summarize the data. (I focused on 9 umbrellas; Bike types used by riders, number of trips per month, number of trips per day of the week, number of trips per hour, avg ride length per month, avg ride length per day of week, avg ride length per hour, and finally the starting and end locations.)
 4. Visualizations creation
 
