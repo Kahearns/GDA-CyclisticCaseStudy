@@ -47,6 +47,7 @@ There are 12 files with naming convention of YYYYMM-divvy-tripdata and each file
 
 ### Insights
 **Usage Frequency**: Annual members use the bikes significantly more than casual riders, with over 2.6 million trips compared to about 1.5 million for casual users. This suggests that annual members are more engaged with the service.
+
 **Ride Duration:** Casual riders tend to have longer average ride durations compared to annual members, which may indicate that casual riders are using the bikes for longer leisure rides, while members might be using them for shorter, more practical trips.
 
 ### Story Summary
