@@ -61,9 +61,12 @@ There are 12 files with naming convention of YYYYMM-divvy-tripdata and each file
 **Potential Marketing Opportunities:** The longer average ride lengths of casual riders present an opportunity for targeted marketing strategies that highlight the benefits of converting to annual memberships, emphasizing convenience, cost-effectiveness, and ease of use.
 
 ## Act
+### Conclusions and Recommendations
 **Targeted Marketing Campaigns:** Design marketing initiatives aimed at casual riders, focusing on the value of an annual membership. Highlight features such as unlimited rides, cost savings compared to single rides, and the convenience of having a bike readily available. Use testimonials and data-driven insights to showcase the benefits of becoming a member.
 
 **Engagement Strategies:** Develop engagement strategies that encourage casual riders to try the bike-share program more frequently. This could include promotional offers for first-time annual memberships or discounted rates for casual riders who commit to longer-term usage.
 
 **Leverage Ride Duration Insights:** Since casual riders take longer rides, consider creating targeted content around leisure biking experiences. This could include curated bike routes, local attractions, or events that encourage casual riders to explore the city using Cyclistic bikes, ultimately making them more inclined to convert to annual memberships.
+
+These recommendations are designed to not only convert casual riders into annual members but also enhance overall engagement with the Cyclistic bike-share program, driving long-term profitability and growth.
 
