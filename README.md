@@ -51,8 +51,10 @@ There are 12 files with naming convention of YYYYMM-divvy-tripdata and each file
 ### Insights
 
 **1. Usage Patterns**
+
 ***Total Trips:***
-Casual Riders: 1,466,246 trips
+
+Casual Riders: 1,466,246 trips<br/>
 Annual Members: 2,675,639 trips
 ***Total Trips Per Month:*** Same as total trips overall.
 Casual riders: 1,466,246 trips
