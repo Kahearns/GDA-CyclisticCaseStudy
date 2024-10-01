@@ -52,30 +52,29 @@ There are 12 files with naming convention of YYYYMM-divvy-tripdata and each file
 
 **1. Usage Patterns**
 
-***Total Trips:***
-
+***Total Trips:*** <br/>
 Casual Riders: 1,466,246 trips<br/>
-Annual Members: 2,675,639 trips
-***Total Trips Per Month:*** Same as total trips overall.
-Casual riders: 1,466,246 trips
-Members: 2,675,639 trips
-***Total Trips Per Day:*** Same as total trips overall.
-Casual riders: 1,466,246 trips
-Members: 2,675,639 trips
-***Total Trips Per Hour:*** Same as total trips overall.
-Casual riders: 1,466,246 trips
+Annual Members: 2,675,639 trips<br/>
+***Total Trips Per Month:*** Same as total trips overall.<br/>
+Casual riders: 1,466,246 trips<br/>
+Members: 2,675,639 trips<br/>
+***Total Trips Per Day:*** Same as total trips overall.<br/>
+Casual riders: 1,466,246 trips<br/>
+Members: 2,675,639 trips<br/>
+***Total Trips Per Hour:*** Same as total trips overall.<br/>
+Casual riders: 1,466,246 trips<br/>
 Members: 2,675,639 trips
 
-**2. Average Ride Lengths**
-***Average Ride Length Per Month:***
-Casual Riders: 22.36 minutes
-Annual Members: 12.38 minutes
-***Average Ride Length Per Day:***
-Casual Riders: 23.77 minutes
-Annual Members: 12.72 minutes
-***Average Ride Length Per Hour:***
-Casual Riders: 22.85 minutes
-Annual Members: 12.44 minutes
+**2. Average Ride Lengths** <br/>
+***Average Ride Length Per Month:*** <br/>
+Casual Riders: 22.36 minutes<br/>
+Annual Members: 12.38 minutes<br/>
+***Average Ride Length Per Day:*** <br/>
+Casual Riders: 23.77 minutes<br/>
+Annual Members: 12.72 minutes<br/>
+***Average Ride Length Per Hour:*** <br/>
+Casual Riders: 22.85 minutes<br/>
+Annual Members: 12.44 minutes<br/>
 
 **Usage Frequency**: Annual members use the bikes significantly more than casual riders, with over 2.6 million trips compared to about 1.5 million for casual users. This suggests that annual members are more engaged with the service.
 
