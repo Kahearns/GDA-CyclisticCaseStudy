@@ -49,6 +49,32 @@ There are 12 files with naming convention of YYYYMM-divvy-tripdata and each file
 ![By hour](https://github.com/Kahearns/GDA-CyclisticCaseStudy/blob/main/ByHour.png)
 
 ### Insights
+
+**1. Usage Patterns**
+***Total Trips:***
+Casual Riders: 1,466,246 trips
+Annual Members: 2,675,639 trips
+***Total Trips Per Month:*** Same as total trips overall.
+Casual riders: 1,466,246 trips
+Members: 2,675,639 trips
+***Total Trips Per Day:*** Same as total trips overall.
+Casual riders: 1,466,246 trips
+Members: 2,675,639 trips
+***Total Trips Per Hour:*** Same as total trips overall.
+Casual riders: 1,466,246 trips
+Members: 2,675,639 trips
+
+**2. Average Ride Lengths**
+***Average Ride Length Per Month:***
+Casual Riders: 22.36 minutes
+Annual Members: 12.38 minutes
+***Average Ride Length Per Day:***
+Casual Riders: 23.77 minutes
+Annual Members: 12.72 minutes
+***Average Ride Length Per Hour:***
+Casual Riders: 22.85 minutes
+Annual Members: 12.44 minutes
+
 **Usage Frequency**: Annual members use the bikes significantly more than casual riders, with over 2.6 million trips compared to about 1.5 million for casual users. This suggests that annual members are more engaged with the service.
 
 **Ride Duration:** Casual riders tend to have longer average ride durations compared to annual members, which may indicate that casual riders are using the bikes for longer leisure rides, while members might be using them for shorter, more practical trips.
